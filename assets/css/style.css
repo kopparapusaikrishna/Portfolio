@@ -170,6 +170,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #34b7a7;
 }
 
+.typed-text {
+    display: none;
+}
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -1230,6 +1234,7 @@ section {
 .contact .php-email-form button[type="submit"]:hover {
   background: #3dc8b7;
 }
+
 
 @-webkit-keyframes animate-loading {
   0% {
