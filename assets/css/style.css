@@ -1235,6 +1235,10 @@ section {
   background: #3dc8b7;
 }
 
+/*.row {
+  padding-left: 100px;
+}*/
+
 
 @-webkit-keyframes animate-loading {
   0% {
